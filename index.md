@@ -19,3 +19,6 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 
 #### Yes.
+
+- [x] This is complete.
+- [ ] This is not complete
